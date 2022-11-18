@@ -1,0 +1,7 @@
+﻿input{
+	button Fire;
+	FPVector2 Direction;
+	FPVector3 mousePos;
+}
+
+

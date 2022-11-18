@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d828e9e67d35f4e96b47e16b7652fe, type: 3}
+  m_Name: New Lazer
+  m_EditorClassIdentifier: 
+  shell: {fileID: 3208266448375136890, guid: e191300404002d64cbf94ea159e20708, type: 3}
+  timeReload: 1
+  activy: {fileID: 0}
+  interval: 1
+  bulletAmount: 10
+  lazer: {fileID: 771497643396541158, guid: 2b2dbc6c6bf7ca74dabdf2f4193fcac8, type: 3}

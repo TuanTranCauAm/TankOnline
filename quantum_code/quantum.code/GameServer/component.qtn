@@ -1,0 +1,39 @@
+﻿asset AttackStyle;
+asset Turet;
+
+component Tank{
+	player_ref Player;
+	FP maxSpeed;
+	FP accelation ;
+	FP braking;
+	FP rotationSpeed;
+	FP timeRespawn;
+	FP curTimeRespawn;
+	entity_ref visualTurret;
+	FP maxHealth;
+	FP currentHealth;
+}
+
+component Weapon{
+	player_ref Shell;
+	FP TimeToDesTroy;
+	entity_ref whoShell;
+	FP damage;
+}
+
+component Turret{
+	player_ref turret;
+	FP speed;
+	asset_ref<AttackStyle> defaultAttack;
+	asset_ref<AttackStyle> currentWeapon;
+    FP bulletAmount;
+    FP interval;
+}
+
+component ItemPower{
+	asset_ref<AttackStyle> weapon;
+}
+
+component TurretPrefab{
+	AssetRefEntityPrototype turret;
+}

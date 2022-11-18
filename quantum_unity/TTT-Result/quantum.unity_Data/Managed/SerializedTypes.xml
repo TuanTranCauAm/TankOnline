@@ -1,0 +1,195 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Quantum.Demo.PhotonRegions/RegionInfo" preserve="nothing" serialized="true"/>
+		<type fullname="FusionExamples.Tanknarok.Bullet/BulletSettings" preserve="nothing" serialized="true"/>
+		<type fullname="FusionExamples.Tanknarok.HitScan/HitScanSettings" preserve="nothing" serialized="true"/>
+		<type fullname="FusionExamples.Tanknarok.LevelBehaviour/LevelLighting" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="quantum.code">
+		<type fullname="Quantum.RuntimeConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefSimulationConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.RuntimePlayer" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AttackStyle" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.ComplexStyle" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.SimulationConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.FlatEntityPrototypeContainer" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.ItemPower_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefAttackStyle" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Turet" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.Turret_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.TurretPrefab_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.Weapon_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.InstantReplaySettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="quantum.core">
+		<type fullname="Quantum.AssetRefMap" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetGuid" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefEntityPrototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetObjectIdentifier" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.CharacterController3DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.LayerMask" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.NavMeshAgentConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/PathQuality" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/MovementType" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/VerticalPositioningType" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/AvoidanceType" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/AvoidanceQuality" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.BinaryData" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.PhysicsMaterial" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.PhysicsCombineFunction" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/Config" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefNavMeshAgentConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Navigation/RawPathAllocationStrategy" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.PhysicsCommon/Config" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefPhysicsMaterial" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefCharacterController2DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefCharacterController3DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Core.FrameBase/EntitiesConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.CharacterController2DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Map" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRef" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefBinaryData" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.MapStaticCollider3D" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.StaticColliderData" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.EntityPrototypeContainer" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.PlayerRef" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.PhysicsBody3D_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.PhysicsBody3D/ConfigFlagsWrapper" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.RotationFreezeFlags_Wrapper" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.PhysicsCollider3D_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Shape3DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.PhysicsCallbacks3D_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.CallbackFlags_Wrapper" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.Transform3D_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.EntityPrototype" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.EntityView" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Shape2DConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefPolygonCollider" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefNavMesh" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetRefEntityView" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.CharacterController3D_Prototype" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="PhotonDeterministic">
+		<type fullname="Photon.Deterministic.FP" preserve="nothing" serialized="true"/>
+		<type fullname="Photon.Deterministic.FPVector3" preserve="nothing" serialized="true"/>
+		<type fullname="Photon.Deterministic.DeterministicSessionConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Photon.Deterministic.FPVector2" preserve="nothing" serialized="true"/>
+		<type fullname="Photon.Deterministic.FPQuaternion" preserve="nothing" serialized="true"/>
+		<type fullname="Photon.Deterministic.NullableFP" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Fusion.Realtime">
+		<type fullname="Fusion.Photon.Realtime.AppSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="PhotonQuantum">
+		<type fullname="QuantumEditorSettings/GizmosMode" preserve="nothing" serialized="true"/>
+		<type fullname="QuantumToolbarAnchor" preserve="nothing" serialized="true"/>
+		<type fullname="QuantumMapDataBakeFlags" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetResourceContainer/AssetResourceInfoGroup_AssetBundle" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetResourceContainer/AssetResourceInfoGroup_Resources" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.AssetResourceContainer/AssetResourceInfo_Resources" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/Transform2DVerticalInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/PhysicsColliderGeneric" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/PhysicsBodyGeneric" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/NavMeshPathfinderInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/InitialNavMeshTargetInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/NavMeshSpec" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/NavMeshSteeringAgentInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/OverrideFP" preserve="nothing" serialized="true"/>
+		<type fullname="EntityPrototype/NavMeshAvoidanceAgentInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EntityView/EntityUnityEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Quantum.Prototypes.Unity.Tank_Prototype" preserve="nothing" serialized="true"/>
+		<type fullname="QuantumStaticColliderSettings" preserve="nothing" serialized="true"/>
+		<type fullname="QuantumRunnerLocalDebug/DynamicAssetDBSettings" preserve="nothing" serialized="true"/>
+		<type fullname="QuantumRunnerLocalDebug/DynamicAssetDBSettings/InitialDynamicAssetsRequestedUnityEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Fusion.Runtime">
+		<type fullname="Fusion.NetworkBool" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.InterpolatedErrorCorrectionSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkProjectConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.LagCompensationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.SimulationConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.InterpolationConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkSimulationConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.HeapConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.AccuracyDefaults" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.Accuracy" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="PhotonRealtime">
+		<type fullname="Photon.Realtime.AppSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.Postprocessing.Runtime">
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.BoolParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.GradingModeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TextureParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TonemapperParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.FloatParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.ColorParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Vector4Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.SplineParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Spline" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.VignetteModeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Vector2Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusionModeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusionQualityParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.KernelSizeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TemporalAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.SubpixelMorphologicalAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.FastApproximateAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Fog" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.LightMeterMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.HistogramMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.WaveformMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.VectorscopeMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer/OverlaySettings" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

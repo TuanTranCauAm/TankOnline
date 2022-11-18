@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd8e95ae0daaec4496511105240e8a3, type: 3}
+  m_Name: AssetResources
+  m_EditorClassIdentifier: 
+  AssetBundlesGroup:
+    _resources: []
+  ResourcesGroup:
+    _resources:
+    - Path: Resources/DB/Configs/DefaultPhysicsMaterial
+      AssetRef:
+        Id:
+          Value: 1
+      ResourcePath: DB/Configs/DefaultPhysicsMaterial
+    - Path: Resources/DB/Configs/DefaultNavMeshAgentConfig
+      AssetRef:
+        Id:
+          Value: 2
+      ResourcePath: DB/Configs/DefaultNavMeshAgentConfig
+    - Path: Resources/DB/Configs/DefaultCharacterController2D
+      AssetRef:
+        Id:
+          Value: 3
+      ResourcePath: DB/Configs/DefaultCharacterController2D
+    - Path: Resources/DB/Configs/DefaultCharacterController3D
+      AssetRef:
+        Id:
+          Value: 4
+      ResourcePath: DB/Configs/DefaultCharacterController3D
+    - Path: Resources/DB/Configs/SimulationConfig
+      AssetRef:
+        Id:
+          Value: 5
+      ResourcePath: DB/Configs/SimulationConfig
+    - Path: Resources/DB/Attack Style/Bomb|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 82015676510740390
+      ResourcePath: DB/Attack Style/Bomb
+    - Path: Resources/DB/CharacterController3DConfigAsset
+      AssetRef:
+        Id:
+          Value: 221271929433036076
+      ResourcePath: DB/CharacterController3DConfigAsset
+    - Path: Resources/DB/Configs/BoxEntity|EntityView
+      AssetRef:
+        Id:
+          Value: 313484167681777599
+      ResourcePath: DB/Configs/BoxEntity
+    - Path: Resources/DB/Attack Style/Faster|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 461717888336941702
+      ResourcePath: DB/Attack Style/Faster
+    - Path: Resources/DB/Attack Style/Complex|EntityView
+      AssetRef:
+        Id:
+          Value: 1060008865853329726
+      ResourcePath: DB/Attack Style/Complex
+    - Path: Resources/DB/EntitiesPrototype/Bullets/SphereEntity|EntityView
+      AssetRef:
+        Id:
+          Value: 1196071551581174888
+      ResourcePath: DB/EntitiesPrototype/Bullets/SphereEntity
+    - Path: Resources/DB/EntitiesPrototype/Bullets/QuantumMiniGunBullet|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 1217321689584080701
+      ResourcePath: DB/EntitiesPrototype/Bullets/QuantumMiniGunBullet
+    - Path: Resources/DB/Configs/BoxEntity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 1390480853420739405
+      ResourcePath: DB/Configs/BoxEntity
+    - Path: Resources/DB/Map1
+      AssetRef:
+        Id:
+          Value: 1710471675203725834
+      ResourcePath: DB/Map1
+    - Path: Resources/DB/Tank/FinalTank|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 1767611507723567462
+      ResourcePath: DB/Tank/FinalTank
+    - Path: Resources/DB/Map1_mesh
+      AssetRef:
+        Id:
+          Value: 2173562385603993425
+      ResourcePath: DB/Map1_mesh
+    - Path: Resources/DB/EntitiesPrototype/Bullets/SphereEntity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 2199625845438679591
+      ResourcePath: DB/EntitiesPrototype/Bullets/SphereEntity
+    - Path: Resources/DB/Configs/SphereEntity|EntityView
+      AssetRef:
+        Id:
+          Value: 2238728376294373284
+      ResourcePath: DB/Configs/SphereEntity
+    - Path: Resources/DB/Attack Style/AttackStyleAsset
+      AssetRef:
+        Id:
+          Value: 2509432289867941674
+      ResourcePath: DB/Attack Style/AttackStyleAsset
+    - Path: Resources/DB/Attack Style/AttackFaster
+      AssetRef:
+        Id:
+          Value: 2519722110446816721
+      ResourcePath: DB/Attack Style/AttackFaster
+    - Path: Resources/DB/Tank/visual_turret|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 2721681660486814308
+      ResourcePath: DB/Tank/visual_turret
+    - Path: Resources/DB/Tank/TankPlayer|EntityView
+      AssetRef:
+        Id:
+          Value: 3002243047164567810
+      ResourcePath: DB/Tank/TankPlayer
+    - Path: Resources/DB/EntitiesPrototype/Bullets/QuantumMiniGunBullet|EntityView
+      AssetRef:
+        Id:
+          Value: 3203591745810278596
+      ResourcePath: DB/EntitiesPrototype/Bullets/QuantumMiniGunBullet
+    - Path: Resources/DB/Tank/DefaultTurret
+      AssetRef:
+        Id:
+          Value: 3321312956640706818
+      ResourcePath: DB/Tank/DefaultTurret
+    - Path: Resources/DB/Tank/FinalTank|EntityView
+      AssetRef:
+        Id:
+          Value: 3350348510872806455
+      ResourcePath: DB/Tank/FinalTank
+    - Path: Resources/DB/Configs/New Attack Style Asset
+      AssetRef:
+        Id:
+          Value: 3361247215759618951
+      ResourcePath: DB/Configs/New Attack Style Asset
+    - Path: Resources/DB/Configs/SphereEntity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3398433729502733245
+      ResourcePath: DB/Configs/SphereEntity
+    - Path: Resources/DB/Tank/TankPlayer|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3403607840678100990
+      ResourcePath: DB/Tank/TankPlayer
+    - Path: Resources/DB/Tank/visual_turret|EntityView
+      AssetRef:
+        Id:
+          Value: 3666874416627651141
+      ResourcePath: DB/Tank/visual_turret
+    - Path: Resources/DB/Attack Style/Complex|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3740215174279173157
+      ResourcePath: DB/Attack Style/Complex
+    - Path: Resources/DB/CharacterController3DConfigAsset 1
+      AssetRef:
+        Id:
+          Value: 4128288912365947637
+      ResourcePath: DB/CharacterController3DConfigAsset 1
+    - Path: Resources/DB/PhysicsMaterialAsset
+      AssetRef:
+        Id:
+          Value: 4164896035503435339
+      ResourcePath: DB/PhysicsMaterialAsset
+    - Path: Resources/DB/Attack Style/Faster|EntityView
+      AssetRef:
+        Id:
+          Value: 4262317357334173423
+      ResourcePath: DB/Attack Style/Faster
+    - Path: Resources/DB/Attack Style/AttackComplex
+      AssetRef:
+        Id:
+          Value: 4302985550845586441
+      ResourcePath: DB/Attack Style/AttackComplex
+    - Path: Resources/DB/Attack Style/Attack Bomb
+      AssetRef:
+        Id:
+          Value: 4319978817203450065
+      ResourcePath: DB/Attack Style/Attack Bomb
+    - Path: Resources/DB/Attack Style/Bomb|EntityView
+      AssetRef:
+        Id:
+          Value: 4355290505496481646
+      ResourcePath: DB/Attack Style/Bomb

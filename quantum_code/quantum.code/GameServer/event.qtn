@@ -1,0 +1,25 @@
+﻿event Death{
+	local entity_ref entity;
+}
+
+event Alive{
+	local entity_ref entity;
+}
+
+event UpdateColorHealth{
+	local entity_ref entity;
+}
+
+event UpdateHealth{
+	entity_ref entity;
+	FP health;
+	FP maxHealth;
+}
+
+event UpdatePoint{
+	entity_ref entity;
+}
+
+event ShellExplored{
+	FPVector3 exploredPosition;
+}

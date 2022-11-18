@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44cecc8c7cd95044683e971a800bf27d, type: 3}
+  m_Name: New Machine
+  m_EditorClassIdentifier: 
+  shell: {fileID: 8219689177351906792, guid: 3037422c6246b164aaab201ba3b06ff6, type: 3}
+  timeReload: 0.3
+  activy: {fileID: 0}
+  interval: 0.1
+  bulletAmount: 10

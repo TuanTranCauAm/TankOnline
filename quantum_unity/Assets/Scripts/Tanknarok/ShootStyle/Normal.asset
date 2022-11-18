@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079de1d053887bc4793d632dda48c237, type: 3}
+  m_Name: Normal
+  m_EditorClassIdentifier: 
+  activity: {fileID: 0}
+  _gunExits: []
+  _projectilePrefab: {fileID: 3844518902735432244, guid: 4722b2b1d2bf34d4f96d01cf093cc1ca, type: 3}
+  _rateOfFire: 0.3
+  _ammo: 100
+  _audioEmitter: {fileID: 3853885614763264948, guid: 106774a0f607a3c43b0fde5a439a3e69, type: 3}
+  _laserSight: {fileID: 0}
+  _powerupType: 0
+  _muzzleFlashPrefab: {fileID: 198922892736825384, guid: 7d01ea3d7489caf45af46db5d0da9098, type: 3}
